@@ -3,6 +3,3 @@
 [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/json-iterator/java/master/LICENSE)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/json-iterator/Lobby)
 
-Documentation : [http://jsoniter.com/java-features.html](http://jsoniter.com/java-features.html)
-
-Scala User: https://github.com/plokhotnyuk/jsoniter-scala
